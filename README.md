@@ -41,7 +41,7 @@ The design emphasizes **deterministic behavior**, **event-driven logic**, and **
 ---
 
 ## Wiring
-See `docs/wiring_diagram.jpg` for full wiring details.
+See `docs` for full wiring details.
 
 ---
 
@@ -64,12 +64,12 @@ The pedestrian FSM only serves requests when the traffic FSM is in RED, ensuring
 ## Demo
 A short demo video showing normal operation and pedestrian requests is available here:
 
-👉 `demo/traffic_controller_demo.mp4`
+👉 `demo`
 
 ---
 
 ## How to Run
-1. Open `src/traffic_controller.ino` in the Arduino IDE
+1. Open `src/traffic_light.ino` in the Arduino IDE
 2. Select **Board: Arduino Uno**
 3. Select the correct COM port
 4. Upload the sketch
