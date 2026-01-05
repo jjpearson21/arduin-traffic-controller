@@ -87,4 +87,4 @@ A short demo video showing normal operation and pedestrian requests is available
 
 ## Author
 **Jared Pearson**  
-Computer Engineering | Embedded & Firmware Systems
+Computer Engineering
